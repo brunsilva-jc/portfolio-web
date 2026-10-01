@@ -62,7 +62,7 @@ body {
   }
   @page {
     size: A4;
-    margin: 14mm 14mm;
+    margin: 12mm 13mm;
   }
   .no-print {
     display: none !important;

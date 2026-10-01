@@ -42,6 +42,16 @@ export type Profile = {
   education: { course: Bilingual; institution: string; year: number }[];
   languages: { name: Bilingual; level: Bilingual }[];
   certifications: { name: string; date: string; url: string }[];
+  cvVariants: CvVariant[];
+};
+
+export type CvVariant = {
+  id: string;
+  title: Bilingual;
+  summary: Bilingual | null;
+  groupOrder: string[];
+  highlightSkills: string[];
+  projects: string[];
 };
 
 export const profile = data as Profile;

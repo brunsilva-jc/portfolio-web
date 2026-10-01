@@ -372,5 +372,127 @@
       "date": "2025-08-19",
       "url": "https://cert.efset.org/Qt6U9N"
     }
+  ],
+  "cvVariants": [
+    {
+      "id": "backend-python",
+      "title": {
+        "pt": "Engenheiro de Software Sênior — Backend & Arquitetura",
+        "en": "Senior Backend Engineer & Software Architect"
+      },
+      "summary": null,
+      "groupOrder": [
+        "backend",
+        "dados",
+        "cloud_infra",
+        "ai",
+        "seguranca_observabilidade"
+      ],
+      "highlightSkills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "projects": [
+        "document-intelligence-miner",
+        "fastapi-user-management",
+        "stock-data-api",
+        "enterprise-oci-backup-automation"
+      ]
+    },
+    {
+      "id": "backend-java",
+      "title": {
+        "pt": "Engenheiro de Software Sênior — Backend Java & Spring Boot",
+        "en": "Senior Backend Engineer — Java & Spring Boot"
+      },
+      "summary": {
+        "pt": "Engenheiro backend sênior com experiência na construção de serviços corporativos multi-tenant em Java e Spring Boot, execução de migrações de banco em produção sem downtime e tuning de ambientes de alta disponibilidade com PostgreSQL, Oracle e MySQL. Também entrega microsserviços Python de alta vazão, o que traz uma visão poliglota do desenho de sistemas distribuídos.",
+        "en": "Senior backend engineer experienced in building multi-tenant enterprise services with Java and Spring Boot, executing zero-downtime production database migrations, and tuning high-availability PostgreSQL, Oracle and MySQL environments. Also delivers high-throughput Python microservices, bringing a polyglot view of distributed system design."
+      },
+      "groupOrder": [
+        "backend",
+        "dados",
+        "cloud_infra",
+        "seguranca_observabilidade",
+        "ai"
+      ],
+      "highlightSkills": [
+        "Java",
+        "Spring Boot",
+        "Oracle DB",
+        "MySQL",
+        "PostgreSQL",
+        "Database Migrations",
+        "Performance Tuning"
+      ],
+      "projects": [
+        "microservices-e-commerce-platform",
+        "document-intelligence-miner",
+        "enterprise-oci-backup-automation"
+      ]
+    },
+    {
+      "id": "arquitetura",
+      "title": {
+        "pt": "Arquiteto de Software — Backend & Sistemas Distribuídos",
+        "en": "Software Architect — Backend & Distributed Systems"
+      },
+      "summary": {
+        "pt": "Arquiteto de software e engenheiro backend sênior focado em sistemas distribuídos, Domain-Driven Design e desempenho. Conduziu a arquitetura de microsserviços críticos (latência 70% menor), definiu padrões de engenharia para um time de 14 pessoas e evoluiu plataformas multi-tenant com migrações de dados sem downtime. Atua da modelagem do domínio à infraestrutura de produção.",
+        "en": "Software architect and senior backend engineer focused on distributed systems, Domain-Driven Design and performance. Led the architecture of critical microservices (70% lower latency), set engineering standards for a 14-person team, and evolved multi-tenant platforms through zero-downtime data migrations. Works from domain modeling to production infrastructure."
+      },
+      "groupOrder": [
+        "backend",
+        "dados",
+        "cloud_infra",
+        "seguranca_observabilidade",
+        "ai"
+      ],
+      "highlightSkills": [
+        "DDD",
+        "Microservices",
+        "Distributed Systems",
+        "REST APIs",
+        "Database Migrations"
+      ],
+      "projects": [
+        "document-intelligence-miner",
+        "microservices-e-commerce-platform",
+        "enterprise-oci-backup-automation"
+      ]
+    },
+    {
+      "id": "ia",
+      "title": {
+        "pt": "Engenheiro Backend Sênior — IA & Sistemas RAG",
+        "en": "Senior Backend Engineer — AI & RAG Systems"
+      },
+      "summary": {
+        "pt": "Engenheiro backend sênior que constrói sistemas de IA prontos para produção: pipelines de RAG com PostgreSQL/pgvector, embeddings e LLMs, com autenticação, limites de custo e observabilidade. Base sólida em APIs de alto desempenho com FastAPI, microsserviços Python (latência 70% menor) e engenharia de dados.",
+        "en": "Senior backend engineer building production-minded AI systems: RAG pipelines with PostgreSQL/pgvector, embeddings and LLMs, with authentication, cost limits and observability. Strong foundation in high-performance FastAPI APIs, Python microservices (70% lower latency) and data engineering."
+      },
+      "groupOrder": [
+        "ai",
+        "backend",
+        "dados",
+        "cloud_infra",
+        "seguranca_observabilidade"
+      ],
+      "highlightSkills": [
+        "RAG",
+        "LangChain",
+        "Embeddings",
+        "pgvector",
+        "Python",
+        "FastAPI"
+      ],
+      "projects": [
+        "document-intelligence-miner",
+        "stock-data-api",
+        "fastapi-user-management"
+      ]
+    }
   ]
 }
