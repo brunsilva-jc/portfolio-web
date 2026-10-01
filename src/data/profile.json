@@ -1,0 +1,377 @@
+{
+  "name": "Bruno Carateú",
+  "location": {
+    "pt": "Rio de Janeiro, Brasil",
+    "en": "Rio de Janeiro, Brazil"
+  },
+  "email": "brunsilva.jc@gmail.com",
+  "linkedin": "https://linkedin.com/in/brunsilva-jc",
+  "github": "https://github.com/brunsilva-jc",
+  "site": null,
+  "title": {
+    "pt": "Engenheiro de Software Sênior — Backend & Arquitetura",
+    "en": "Senior Backend Engineer & Software Architect"
+  },
+  "summary": {
+    "pt": "Engenheiro de Software Sênior com foco em backend e arquitetura, experiente em sistemas distribuídos, Domain-Driven Design (DDD) e engenharia de alto desempenho. Projeta APIs escaláveis, otimiza arquiteturas multi-tenant e automatiza fluxos de infraestrutura, com histórico comprovado de ganho de eficiência no processamento de dados e de padronização de boas práticas em times colaborativos.",
+    "en": "Highly skilled Backend Engineer and Software Architect with a strong background in distributed systems, Domain-Driven Design (DDD), and high-performance engineering. Experienced in designing scalable APIs, optimizing multi-tenant enterprise architectures, and automating infrastructure workflows. Proven track record of improving data processing efficiency and establishing robust development standards in collaborative environments."
+  },
+  "intro": {
+    "pt": "Engenheiro backend e arquiteto de software no Rio de Janeiro. Projeto e construo APIs escaláveis, sistemas distribuídos e serviços com uso intensivo de dados, da modelagem do domínio à infraestrutura de produção.",
+    "en": "Backend engineer and software architect based in Rio de Janeiro. I design and build scalable APIs, distributed systems and data-intensive services, from domain modeling to production infrastructure."
+  },
+  "focus": {
+    "pt": [
+      "Backends de RAG (Retrieval-Augmented Generation) com PostgreSQL + pgvector",
+      "Arquitetura de software e system design (DDD, microsserviços)",
+      "Aprimorando o inglês falado para colaboração internacional"
+    ],
+    "en": [
+      "Retrieval-Augmented Generation (RAG) backends with PostgreSQL + pgvector",
+      "Software architecture and system design (DDD, microservices)",
+      "Improving spoken English for international collaboration"
+    ]
+  },
+  "whatIDo": {
+    "pt": [
+      "**Arquitetura backend** — microsserviços, DDD, sistemas corporativos multi-tenant (Python e Java)",
+      "**APIs de alto desempenho** — FastAPI, Django REST Framework, Spring Boot",
+      "**Dados e bancos** — modelagem PostgreSQL, migrações sem downtime, tuning de performance",
+      "**Infraestrutura e automação** — Linux, Docker, CI/CD, OCI/AWS, automação com Bash",
+      "**Backends com IA** — pipelines de RAG, embeddings e busca vetorial",
+      "**Entrega ponta a ponta** — apps publicados na App Store e no Google Play (React Native)"
+    ],
+    "en": [
+      "**Backend architecture** — microservices, DDD, multi-tenant enterprise systems (Python & Java)",
+      "**High-performance APIs** — FastAPI, Django REST Framework, Spring Boot",
+      "**Data & databases** — PostgreSQL modeling, zero-downtime migrations, performance tuning",
+      "**Infrastructure & automation** — Linux, Docker, CI/CD, OCI/AWS, Bash automation",
+      "**AI-enabled backends** — RAG pipelines, embeddings and vector search",
+      "**End-to-end delivery** — apps published on the App Store and Google Play (React Native)"
+    ]
+  },
+  "skillGroups": [
+    {
+      "key": "backend",
+      "label": {
+        "pt": "Backend",
+        "en": "Backend"
+      },
+      "items": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "DDD",
+        "Microservices",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "key": "dados",
+      "label": {
+        "pt": "Dados",
+        "en": "Data"
+      },
+      "items": [
+        "PostgreSQL",
+        "pgvector",
+        "MySQL",
+        "Oracle DB",
+        "MongoDB",
+        "Redis",
+        "Database Migrations",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "key": "ai",
+      "label": {
+        "pt": "IA",
+        "en": "AI"
+      },
+      "items": [
+        "RAG",
+        "LangChain",
+        "Embeddings"
+      ]
+    },
+    {
+      "key": "cloud_infra",
+      "label": {
+        "pt": "Cloud & DevOps",
+        "en": "Cloud & DevOps"
+      },
+      "items": [
+        "OCI",
+        "AWS",
+        "Linux",
+        "Docker",
+        "CI/CD",
+        "GitHub Actions",
+        "Bash",
+        "Vercel",
+        "Coolify"
+      ]
+    },
+    {
+      "key": "seguranca_observabilidade",
+      "label": {
+        "pt": "Segurança",
+        "en": "Security"
+      },
+      "items": [
+        "System Hardening",
+        "IAM",
+        "WAF"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "LabCapital",
+      "start": "2022-07",
+      "end": null,
+      "roles": [
+        {
+          "title": {
+            "pt": "Engenheiro Backend Sênior / Especialista",
+            "en": "Senior Backend Engineer / Specialist"
+          },
+          "start": "2023-04",
+          "end": null,
+          "highlights": {
+            "pt": [
+              "Arquitetei e desenvolvi microsserviços Python críticos, reduzindo a latência em 70% e aumentando a vazão de processamento de dados.",
+              "Projetei e implementei APIs REST de alto desempenho com FastAPI (escalabilidade, tratamento de erros, documentação).",
+              "Estabeleci fluxos avançados de Git num time de 14 engenheiros, garantindo zero conflitos de integração.",
+              "Atuei com times multidisciplinares para alinhar o backend às demandas de negócio e de alta vazão."
+            ],
+            "en": [
+              "Architected and developed critical Python microservices, cutting latency by 70% and boosting data processing throughput.",
+              "Designed and implemented high-performance REST APIs with FastAPI (scalability, error handling, documentation).",
+              "Established advanced Git workflows in a 14-person engineering team, ensuring zero integration conflicts.",
+              "Partnered with cross-functional teams to align backend capabilities with business and high-throughput demands."
+            ]
+          },
+          "tracks": [
+            {
+              "name": {
+                "pt": "Plataforma corporativa multi-tenant (Java/Spring Boot e bancos de dados)",
+                "en": "Enterprise multi-tenant platform (Java/Spring Boot & databases)"
+              },
+              "start": "2024-02",
+              "end": "2025-05",
+              "highlights": {
+                "pt": [
+                  "Construí e mantive serviços multi-tenant em Java/Spring Boot para ambientes corporativos.",
+                  "Executei migrações complexas de banco em produção, sem downtime e com compatibilidade retroativa.",
+                  "Conduzi otimização de bancos, automação de backups e tuning de performance em ambientes de alta disponibilidade.",
+                  "Resolvi incompatibilidades de dados de alto risco durante integrações de sistemas."
+                ],
+                "en": [
+                  "Built and maintained multi-tenant Java/Spring Boot services for enterprise environments.",
+                  "Executed complex production database migrations with zero downtime and full backward compatibility.",
+                  "Managed database optimization, backup automation and performance tuning for high-availability setups.",
+                  "Resolved high-risk data incompatibility issues during system integration."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "pt": "Desenvolvedor Júnior e Suporte de Infraestrutura",
+            "en": "Junior Developer & Infrastructure Support"
+          },
+          "start": "2022-07",
+          "end": "2023-03",
+          "highlights": {
+            "pt": [
+              "Liderei iniciativas de web scraping e engenharia de dados com Scrapy, criando pipelines automáticos para BI.",
+              "Administrei servidores Linux (controle de acesso, monitoramento, troubleshooting).",
+              "Automatizei rotinas e agendas de backup com Bash, reduzindo o custo operacional."
+            ],
+            "en": [
+              "Led web scraping / data engineering with Scrapy, building automated pipelines feeding BI systems.",
+              "Administered Linux servers (access control, monitoring, troubleshooting).",
+              "Automated routine tasks and backup schedules with Bash, lowering operational overhead."
+            ]
+          },
+          "tracks": []
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "document-intelligence-miner",
+      "name": "Document Intelligence Miner",
+      "repo": "https://github.com/brunsilva-jc/document-intelligence-miner",
+      "featured": true,
+      "stack": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "pgvector",
+        "LangChain",
+        "Alembic"
+      ],
+      "proves": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "PostgreSQL",
+        "pgvector",
+        "Database Migrations",
+        "RAG",
+        "LangChain",
+        "Embeddings",
+        "Docker",
+        "CI/CD",
+        "GitHub Actions"
+      ],
+      "description": {
+        "pt": "API de RAG sobre documentos: ingestão, chunking e embeddings no PostgreSQL/pgvector, respostas de LLM com citação das fontes. Arquitetura em camadas, autenticação por chave, limites de uso e de custo, retenção de dados e observabilidade.",
+        "en": "RAG API over documents: ingestion, chunking and embeddings stored in PostgreSQL/pgvector, LLM answers with source citations. Layered architecture, API-key auth, rate and cost limits, data retention and observability."
+      }
+    },
+    {
+      "slug": "enterprise-oci-backup-automation",
+      "name": "Enterprise OCI Backup Automation",
+      "repo": "https://github.com/brunsilva-jc/Automate-OCI-backups",
+      "featured": true,
+      "stack": [
+        "Bash",
+        "OCI Object Storage"
+      ],
+      "proves": [
+        "Bash",
+        "OCI",
+        "Linux"
+      ],
+      "description": {
+        "pt": "Automação de backups para a Oracle Cloud em nível de produção: compressão, criptografia AES-256, políticas de retenção, retentativas, verificação, relatórios e notificações por webhook.",
+        "en": "Production-grade backup automation to Oracle Cloud: compression, AES-256 encryption, retention policies, retries, verification, reports and webhook notifications."
+      }
+    },
+    {
+      "slug": "microservices-e-commerce-platform",
+      "name": "Microservices E-commerce Platform",
+      "repo": "https://github.com/brunsilva-jc/microservices-ecommerce",
+      "featured": true,
+      "stack": [
+        "TypeScript",
+        "Koa",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "GitHub Actions"
+      ],
+      "proves": [
+        "Microservices",
+        "Distributed Systems",
+        "REST APIs",
+        "MongoDB",
+        "Redis",
+        "Docker",
+        "CI/CD",
+        "GitHub Actions",
+        "TypeScript",
+        "Node.js"
+      ],
+      "description": {
+        "pt": "Backend de e-commerce dividido em API Gateway, Auth (JWT/RBAC), Produtos, Pedidos e Carrinho, com cache em Redis, documentação OpenAPI e CI.",
+        "en": "E-commerce backend split into API Gateway, Auth (JWT/RBAC), Product, Order and Cart services, with Redis caching, OpenAPI docs and CI."
+      }
+    },
+    {
+      "slug": "fastapi-user-management",
+      "name": "FastAPI User Management",
+      "repo": "https://github.com/brunsilva-jc/fastapi-user-management",
+      "featured": true,
+      "stack": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Docker"
+      ],
+      "proves": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "description": {
+        "pt": "API REST de gestão de usuários com ORM SQLAlchemy, validações, configuração por ambiente e PostgreSQL em contêiner.",
+        "en": "User management REST API with SQLAlchemy ORM, validation, environment-based config and containerized PostgreSQL."
+      }
+    },
+    {
+      "slug": "stock-data-api",
+      "name": "Stock Data API",
+      "repo": "https://github.com/brunsilva-jc/stock-data",
+      "featured": false,
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Streamlit",
+        "Docker",
+        "pytest"
+      ],
+      "proves": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "Docker"
+      ],
+      "description": {
+        "pt": "API de dados de criptomoedas com métricas calculadas e dashboard em Streamlit, desenvolvida com testes primeiro.",
+        "en": "Crypto market data API with computed metrics and a Streamlit dashboard, built test-first."
+      }
+    }
+  ],
+  "education": [
+    {
+      "course": {
+        "pt": "Bacharelado em Ciência da Computação",
+        "en": "B.S. in Computer Science"
+      },
+      "institution": "Centro Universitário Unicarioca",
+      "year": 2022
+    }
+  ],
+  "languages": [
+    {
+      "name": {
+        "pt": "Português",
+        "en": "Portuguese"
+      },
+      "level": {
+        "pt": "Nativo",
+        "en": "Native"
+      }
+    },
+    {
+      "name": {
+        "pt": "Inglês",
+        "en": "English"
+      },
+      "level": {
+        "pt": "Leitura e escrita avançadas (EF SET C2, 79/100); conversação em aprimoramento contínuo",
+        "en": "Advanced reading & writing (EF SET C2, 79/100); conversational speaking, actively improving through courses and practice"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "EF SET English Certificate — C2 Proficient",
+      "date": "2025-08-19",
+      "url": "https://cert.efset.org/Qt6U9N"
+    }
+  ]
+}
