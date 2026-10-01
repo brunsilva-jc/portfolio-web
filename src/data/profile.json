@@ -272,7 +272,6 @@
       ],
       "proves": [
         "Microservices",
-        "Distributed Systems",
         "REST APIs",
         "MongoDB",
         "Redis",
@@ -283,8 +282,8 @@
         "Node.js"
       ],
       "description": {
-        "pt": "Backend de e-commerce dividido em API Gateway, Auth (JWT/RBAC), Produtos, Pedidos e Carrinho, com cache em Redis, documentação OpenAPI e CI.",
-        "en": "E-commerce backend split into API Gateway, Auth (JWT/RBAC), Product, Order and Cart services, with Redis caching, OpenAPI docs and CI."
+        "pt": "Backend de e-commerce em microsserviços (em andamento): serviço de Auth completo — JWT com refresh, RBAC, rate limiting com Redis, Swagger e testes — e catálogo de produtos com cache em Redis. CI roda os testes contra MongoDB e Redis.",
+        "en": "Microservices e-commerce backend (in progress): complete Auth service — JWT with refresh tokens, RBAC, Redis-backed rate limiting, Swagger and tests — plus a product catalog with Redis caching. CI runs tests against MongoDB and Redis."
       }
     },
     {
